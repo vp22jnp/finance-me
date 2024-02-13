@@ -1,4 +1,4 @@
-package com.project.staragile.banking;
+package com.project.mentorbabaa.banking;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

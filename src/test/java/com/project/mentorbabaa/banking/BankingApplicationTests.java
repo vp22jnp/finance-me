@@ -1,4 +1,4 @@
-package com.project.staragile.banking;
+package com.project.mentorbabaa.banking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
