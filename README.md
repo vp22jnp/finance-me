@@ -61,11 +61,11 @@ Continuous monitoring should be configured to monitor both the test and producti
 2. Disk space utilization
 3. Total available memory
 
-## Solution Repository
+## How to submit the project the project : 
 
-Link for the solution of the FinanceMe project code is provided below. Use it to validate your solution.
-
-**Note**: For detailed information about running the application, exposed APIs, and input/output formats, refer to the README.md in the GitHub repository.
+1. Create a document with detailed step by step tasks along with the screenshot. 
+2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc.
+3. Upload the project in your Designated Google Drive Folder.
 
 
 [www.mentorbabaa.com](https://www.mentorbabaa.com)
